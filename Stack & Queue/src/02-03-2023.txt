@@ -1,0 +1,8 @@
+Today's assignment (2-3-2023)
+
+1. Reverse a String using Stack
+2. Reverse individual words using stack (ex. how are you -> woh era uoy)
+3. Check for Balanced Brackets in an expression
+4. Prefix to Infix Conversion
+5. Prefix to Postfix Conversion
+6. Postfix to Infix Conversion

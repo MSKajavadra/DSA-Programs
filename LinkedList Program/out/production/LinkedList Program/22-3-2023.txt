@@ -1,0 +1,13 @@
+Today's assignment : linkedlist (22-3-2023)
+1. Create, insert, delete, print, update, search in singly linked list
+2. Count nodes / length of linked list
+3. Print linked list in reverse
+4. Get nth node in linked list
+5. Get nth node from end in linked linked list
+
+Todays Assignment (24-3-2023)
+1. Given only a pointer to a node to be deleted in a singly linked list, how do you delete it? (head not given)
+2. Create and print circular linked list without tail node
+3. Exchange first and last nodes in Circular Linked List
+4. Print middle in of the linked list
+5. Remove duplicates from a sorted linked list

@@ -1,0 +1,29 @@
+1.Reverse a String
+
+2.Check if a String is Palindrome?
+
+3.Count number of words in a String 
+
+4.Find duplicate chars from string
+
+5.Program to check if two strings are same or not (without using in build function .equals())
+
+6.Update a character in a string (without using updateAt() function)
+
+7.Sort string of characters
+
+8.Print frequency of all the characters in string
+
+9.Remove Vowels from a String
+
+10.Reverse Words in a String
+
+11.Remove All Digits in String
+
+12.Merge Strings Alternatively
+
+13.Check if all words are palindrome
+
+14.Check if string have equal digits and chars
+
+15.Remove duplicate chars from string

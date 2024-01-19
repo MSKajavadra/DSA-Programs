@@ -1,0 +1,8 @@
+Today's Assignment (28-3-2023)
+1. Create and print circular linked list without tail node
+2. Exchange first and last nodes in Circular Linked List
+3. Print middle node of the linked list
+4. Remove duplicates from a sorted linked list
+5. Check if linked list is circular linked list
+6. Detect loop in linked list
+7. Find length of loop in linked list

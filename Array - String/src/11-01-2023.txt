@@ -1,0 +1,17 @@
+Today's lab (matrix)
+
+1. Print a matrix
+2. Find element from matrix
+3. Sum of matrix
+4. Find row and column size from given matrix
+5. Print matrix in reverse order
+6. Row / column wise traversal
+7. Print matrix in zig zag fashion
+8. Shortest path to reach from [0,0] to [n,n]
+9. Find element from sorted matrix : Binary search
+10. Search in a row wise and column wise sorted matrix
+11. Print mirror image of matrix
+12. Find highest sum among all rows
+13. Find highest sum among all columns
+14. Delete greatest value in each row
+15. Matrix diagonal sum of both direction

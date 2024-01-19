@@ -1,0 +1,26 @@
+Today's assignment (7-2-2023)
+
+1. Write a program which creates a class Student with the following Data Members rollNum, studName, mark1, mark2, mark3, totalMarks  Methods 
+setStudDetails() – which sets the values to all the data members except totalMarks. 
+calculateTotal() -  which calculate the totalMarks 
+displayStudDetails() – which displays rollNum, studName and totalMarks Create a class StudentDemo to test the functionality of Student class  
+
+
+
+2. Create a class Account with accountNumber, custName, balance and interest rate. create method calculateInterest() which will calculate interest and add to balance. create a method to displayAccountDetails()
+
+
+3. Create a class Account with the attributes accountNo, custName, accountBalance and methods setAccountDetails() which set the values to these attributes.
+withdraw() which subtracts the given amount from the available balance
+deposit() which adds a given amount  to the available balance and dispAccountDetails() which displays accountNo, custName, accountBalance. 
+Create a class Main1 which contains the main() method to test the functionality of Account class.  
+
+
+4. Create a class Student with attributes rollNo, Name, marks1, marks2, marks3, marks4, marks5.
+create a method getTop3Student() which accepts a list of Students and returns an array of 3 top students with the highest percentage.
+
+5. Create a class BankAccount with attributes acNo, accountHolderName, balance.
+Create below methods
+deposit() which accepts amount to be credited to account balance
+withdraw() which accepts amount to be debited from account balance
+show() which display account details with balance.

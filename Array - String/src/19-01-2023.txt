@@ -1,0 +1,21 @@
+Array Programs:
+
+1.Insert / update / search / print / delete
+2.Insert / update / search / print / delete in sorted array
+3.Count odd / even in array
+4.Reverse an array in memory
+5.Left rotate an array by d positions
+6.Print in reverse order / store in reverse order
+7.Check if given number is duplicate or not
+8.Check if given number is unique or not
+9.Print all unique numbers
+10.Sum of array element 
+11.Find element -> simple and binary search
+12.Pair with sum present or not? Two pointers
+13.Move all 0 to right and 1s to left
+14.1 to n-1 in an array :  1 number is missing -> find out
+15.1 to n in an array : 1 number is duplicate -> find out
+16.Binary search
+17.Reverse a number
+18.Merge two sorted array
+19.Largest contiguous sum
