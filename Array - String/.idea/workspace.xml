@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbec0c5c-5031-491e-801a-7bf46f19e017" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Trie/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList Program/out/production/LinkedList Program/ReverseBetweenLeftAndRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList Program/out/production/LinkedList Program/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList Program/out/production/LinkedList Program/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Stack &amp; Queue/out/production/Stack &amp; Queue/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack &amp; Queue/out/production/Stack &amp; Queue/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +45,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/Add Zero Group/Array - String",
+    "last_opened_file_path": "F:/Add Zero Group/Tree",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -85,16 +80,5 @@
         <option value="Space.CommitStatus" />
       </list>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
