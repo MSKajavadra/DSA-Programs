@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Test {
+public class BuildFromLevelOrderData {
     public static void main(String[] args) {
         Integer[] levelOrderData = {6, 7, 8, 2, 7, 1, 3, 9, null, 1, 4, null, null, null, 5};
         TreeNode root = LevelOrderBinaryTree.createTree(levelOrderData);

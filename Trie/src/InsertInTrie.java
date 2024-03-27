@@ -3,15 +3,15 @@ public class InsertInTrie {
 
     public static void main(String[] args) {
         String[] words={"i","like","sam","samsung","mobile"};
-        for (int i = 0; i < words.length; i++) {
-            insert(words[i]);
+        for (String word : words) {
+            insert(word);
         }
         String key="ilikesamsung"; //all key exist in words array
         System.out.println(wordBreak(key));
     }
 
     private static boolean wordBreak(String key) {
-        if(key.length()==0)
+        if(key.isEmpty())
             return true;
         for (int i = 1; i <= key.length(); i++) {
             String firstPart=key.substring(0,i);
